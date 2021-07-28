@@ -9,4 +9,4 @@ This is a code repository for  a full Realtime Chat Application. I have used Rea
 
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+- run ```npm i && npm start``` for both client and server side to start the development server.
